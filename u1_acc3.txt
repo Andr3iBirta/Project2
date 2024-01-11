@@ -1,0 +1,8 @@
+11/1/2024 deposit1
+ income 1122.33
+11/1/2024 withdrawal1
+ expense 556.60
+11/1/2024 transfer1
+ expense 100.00
+11/1/2024 payment1
+ expense 100.00

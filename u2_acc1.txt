@@ -1,0 +1,8 @@
+11/1/2024 payment test
+ income 50.00
+11/1/2024 payback test
+ expense 50.00
+11/1/2024 payment1
+ income 100.00
+11/1/2024 test
+ expense 100.00

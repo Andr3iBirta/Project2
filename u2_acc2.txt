@@ -1,0 +1,4 @@
+11/1/2024 test
+ income 100.00
+11/1/2024 test
+ expense 100.00

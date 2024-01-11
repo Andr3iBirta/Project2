@@ -1,0 +1,6 @@
+11/1/2024 transfer test
+ income 50.00
+11/1/2024 transfer back test
+ expense 50.00
+11/1/2024 da da da
+ income 100.00

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1704836332 source:d:\la facultateee\programare in c\homebank\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Presentation.c"
+
+1705007593 d:\la facultateee\programare in c\homebank\presentation.c
+	"Controller.c"
+
+1705006378 d:\la facultateee\programare in c\homebank\controller.c
+	"Domain.c"
+	"time.h"
+
+1705006771 d:\la facultateee\programare in c\homebank\domain.c
+	<string.h>
+	"entities.h"
+	"Validation.c"
+
+1704922096 d:\la facultateee\programare in c\homebank\entities.h
+
+1704922993 d:\la facultateee\programare in c\homebank\validation.c
+	"Globals.c"
+
+1704826307 d:\la facultateee\programare in c\homebank\globals.c
+	"entities.h"
+
